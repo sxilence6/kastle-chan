@@ -1,6 +1,9 @@
 # Code build
 code/build/
 code/docs/output/
+.venv/
+voice/generated*/
+__pycache__/
 
 # Pico SDK
 code/pico-sdk/

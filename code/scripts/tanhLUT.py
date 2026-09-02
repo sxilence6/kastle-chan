@@ -1,6 +1,6 @@
 import numpy as np
 
-# written by chatgpt 4o
+# Generate the fixed-point tanh lookup table used by the DSP code.
 
 # Number of entries in the LUT
 LUT_SIZE = 65536
@@ -68,4 +68,3 @@ def tanh_lut(input_value):
 input_value = 0.5  # Input value in the range [-pi, pi]
 output_value = tanh_lut(input_value)
 print(f"Tanh LUT output for input {input_value}: {output_value}")
-

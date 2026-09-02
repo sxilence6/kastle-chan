@@ -38,7 +38,9 @@ SOFTWARE.
 /**
  * @brief Enables "fast code" functionality.
  */
+#ifndef KASTLE2_HOST_TEST
 #define FASTCODE_ENABLED
+#endif
 
 // Actual implementation
 

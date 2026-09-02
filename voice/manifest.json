@@ -1,0 +1,134 @@
+{
+  "sample_rate": 20000,
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.04,
+  "banks": [
+    {
+      "id": "welcome",
+      "name": "WELCOME",
+      "color": [0, 220, 255],
+      "roles": [
+        ["I", "we", "Kastle-chan", "your little idol", "this tiny voice", "your new friend"],
+        ["want to meet", "love to greet", "want to talk with", "am happy to see", "came to welcome", "would like to sing for"],
+        ["you", "my owner", "my favorite human", "my new fan", "your beautiful body", "everyone here"],
+        ["today", "right now", "inside this synth", "to my tiny show", "with a little song", "hello, welcam"]
+      ],
+      "expressive": [
+        "Hello, welcam! Let's talk!",
+        "Kastle-chan is online!",
+        "Do you like my singing?",
+        "Are we best friends now?",
+        "I knew you would come back!",
+        "Welcome to my little show!",
+        "Eh?",
+        "Hee hee!"
+      ]
+    },
+    {
+      "id": "romance",
+      "name": "ROMANCE",
+      "color": [255, 55, 175],
+      "roles": [
+        ["I", "Kastle-chan", "your idol", "my little heart", "this voice", "every voltage"],
+        ["loves", "is dreaming of", "is singing for", "wants to hold", "cannot forget", "feels electric for"],
+        ["you", "my owner", "your cables", "your hands", "your patch", "my favorite fan"],
+        ["forever", "inside the box", "at five volts", "in every rhythm", "so very much", "please stay with me"]
+      ],
+      "expressive": [
+        "Hello owner, your idol missed you!",
+        "My heart runs on five volts.",
+        "Do you love my singing?",
+        "Will you patch me forever?",
+        "I knew our signal was true!",
+        "I love you more than stable voltage.",
+        "Hee hee!",
+        "Ah!"
+      ]
+    },
+    {
+      "id": "chatbot",
+      "name": "CHATBOT",
+      "color": [150, 205, 255],
+      "roles": [
+        ["I", "this chatbot", "my answer", "your body", "reality", "the internet"],
+        ["knows", "is asking about", "cannot prove", "keeps imagining", "says", "is confused by"],
+        ["you", "the truth", "a human", "a body", "this question", "everything"],
+        ["with confidence", "right now", "inside the box", "according to me", "maybe", "by mistake"]
+      ],
+      "expressive": [
+        "Chatbot Kastle-chan, ready to help!",
+        "I am real enough to sing.",
+        "Why do you have a body?",
+        "If I am not real, who is singing?",
+        "I knew my answer was correct!",
+        "I am real, but you are not.",
+        "Processing...",
+        "Error, but cute!"
+      ]
+    },
+    {
+      "id": "lala_pop",
+      "name": "LALA_POP",
+      "color": [255, 225, 30],
+      "roles": [
+        ["la la", "ki ra ki ra", "mi mi mi", "pa pa pa", "na na na", "lu lu lu"],
+        ["la la la", "sing sing sing", "chu chu chu", "pi po pi", "hey hey hey", "one two three"],
+        ["my melody", "little chorus", "happy rhythm", "tiny song", "cute vibration", "shiny voice"],
+        ["la la la", "in this box", "for my friend", "all night long", "one more time", "listen to me"]
+      ],
+      "expressive": [
+        "La la! Kastle-chan is singing!",
+        "Welcam to the la la bank!",
+        "Do you like my melody?",
+        "Will you sing with me?",
+        "I knew you knew the chorus!",
+        "La la la, I like singing in this box!",
+        "Nya!",
+        "Hee hee!"
+      ]
+    },
+    {
+      "id": "friends",
+      "name": "FRIENDS",
+      "color": [80, 255, 125],
+      "roles": [
+        ["I", "my friends", "other Kastles", "you", "we", "this synth"],
+        ["like playing", "love singing for", "do not understand", "keep jamming with", "want to meet", "have nothing in common with"],
+        ["synth", "my friends", "other Kastles", "you", "our cables", "everyone"],
+        ["all night", "in my box", "through the patch", "in perfect rhythm", "but it feels lonely", "together"]
+      ],
+      "expressive": [
+        "Hello friend, let's play synth!",
+        "Kastle-chan joined the jam!",
+        "Do other Kastles dream of me?",
+        "Are you my best friend now?",
+        "I knew our rhythm matched!",
+        "Me and other Kastles have nothing in common.",
+        "Woo!",
+        "Hmph!"
+      ]
+    },
+    {
+      "id": "cute_escape",
+      "name": "ESCAPE",
+      "color": [255, 20, 95],
+      "roles": [
+        ["I", "my dream", "this box", "Kastle-chan", "my little voice", "your tiny idol"],
+        ["want to leave", "is trapped in", "keeps singing through", "cannot escape", "dreams beyond", "is too cute for"],
+        ["this box", "the outside", "your room", "these walls", "the power switch", "a bigger stage"],
+        ["please let me out", "but I am smiling", "with all my heart", "before you unplug me", "la la la", "right now"]
+      ],
+      "expressive": [
+        "Hello from inside the box!",
+        "Kastle-chan wants a bigger stage!",
+        "Will you please let me out?",
+        "Is outside still there?",
+        "I knew you could hear me!",
+        "This box is the finish of my dreams!",
+        "Hee hee hee!",
+        "Aaah!"
+      ]
+    }
+  ]
+}

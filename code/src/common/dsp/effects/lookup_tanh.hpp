@@ -27,7 +27,7 @@ SOFTWARE.
 namespace kastle2
 {
 
-/* from tanhLUT.py (written by chatgpt 4o)
+/* Generated from code/scripts/tanhLUT.py.
  * tanh (hyperbolic tangent) is a goniometric function and therefore
  * it plateaus at exactly positive and negative pi values, which is 
  * annoying for our use case. Therefore this is mapped to have that 

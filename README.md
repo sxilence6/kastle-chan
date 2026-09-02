@@ -1,3 +1,18 @@
+# Kastle-chan
+
+Kastle-chan is experimental firmware for the Kastle 2 Wave Bard. It combines
+synthetic speech, a grammar sequencer, toy-piano arpeggios, and stereo delay.
+
+The firmware lives in [`code/src/apps/KastleChan`](code/src/apps/KastleChan).
+It is based on the open-source
+[`bastl-instruments/kastle2`](https://github.com/bastl-instruments/kastle2)
+firmware. The original Bastl applications remain intact in this fork.
+
+Kastle-chan is an unofficial project. It is not affiliated with Hatsune Miku
+or Crypton Future Media and does not use their voice or character assets.
+
+---
+
 # Kastle 2
 
 *Compatible with [Bastl Instruments Citadel](https://github.com/bastl-instruments/citadel)*

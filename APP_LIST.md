@@ -54,7 +54,7 @@ Have you made a firmware? Feel free to pick an ID and make a PR. Time from time 
 
 | App Name       | ID   | Link                                           |
 |----------------|------| ---------------------------------------------- |
-| Your App Here! | 0x10 | http://www.example.com/super-cool-kastle2-firmware |
+| Kastle-chan    | 0x10 | https://github.com/sxilence6/kastle-chan         |
 | Knoscillator   | 0x3D | https://github.com/ddf/kastle2/releases/tag/knoscillator-v1.0.0 |
 | ...            | ...  | ...                                            |
 | ...            | ...  | ...                                            |
